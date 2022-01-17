@@ -1,3 +1,3 @@
 # Fake-News-Detection
 
-Project-Demo-url:https://fakenewsdetection.azurewebsites.net/
+Project-Demo-url: https://fake-news-detection.azurewebsites.net/
